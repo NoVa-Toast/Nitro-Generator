@@ -18,7 +18,8 @@
 
 ## Why .exe ? virus ???
 ```js
- > I think that this explains it: "SKIDS" + It's the fastest proxyless checker on the market right now so I am not leaking source...
+ > I think that this explains it: "SKIDS" 
+ > It's the fastest proxyless checker on the market right now so I am not leaking source...
 ```
 
 ## I still don't trust you !
