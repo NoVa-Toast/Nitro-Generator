@@ -4,27 +4,27 @@
   <b>Star ⭐ if you want more</b><br>
 </p>
 
-## Get your key in the discord server:
+### Get your key in the discord server:
 ```js
  > discord.gg/onlp | Tekky#9999
 ```
 
 ### Demo:
 
-## Features
+### Features
 ```js
   > Check discord Nitro codes
   > Running on PRIVATE API so NO RATELIMIT and VERY FAST
   > Grabs your Token (this a joke)
 ```
 
-## Why .exe ? virus ???
+### Why .exe ? virus ???
 ```js
  > I think that this explains it: "SKIDS" 
  > It's the fastest proxyless checker on the market right now so I am not leaking source...
 ```
 
-## I still don't trust you !
+### I still don't trust you !
 ```js
  > Ask in my server : discord.gg/onlp, I have NEVER grabber, or scammed ANYONE, I am not a jerk.
 ```
