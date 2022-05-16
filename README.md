@@ -37,7 +37,7 @@
 
 ## Installation
 ```js
-  * Download and run the .exe file
+  > Download and run the .exe file
 ```
 
 ##  Credits:
