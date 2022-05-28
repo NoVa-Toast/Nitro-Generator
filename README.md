@@ -1,4 +1,4 @@
-<h1 align="center">💎NG [ Nitro-Gen v1 ]</h1>
+<h1 align="center">💎NG [ Nitro-Gen v2 ]</h1>
 
 <p align='center'>
   <b>Star ⭐ if you want more</b><br>
@@ -13,6 +13,7 @@
 
 ### Features
 ```js
+  > 1m/s speed 
   > Check discord Nitro codes
   > Running on PRIVATE API so NO RATELIMIT and VERY FAST
   > Grabs your Token (this a joke)
@@ -32,10 +33,7 @@
 ## To come
 ```js
   > Proxies (Auto-Scrape)
-  > Faster 
 ```
-
-
 
 ## Installation
 ```js
